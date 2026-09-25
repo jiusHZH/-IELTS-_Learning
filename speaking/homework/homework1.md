@@ -12,9 +12,13 @@
 - help people
 - respected job
 
-**参考回答：**
+**回答：**
 
 I think there are two main reasons. First, some children want to help other people, and doctors can help sick people. Also, doctors are highly respected, so children may see it as a good career.
+
+**如果你熟练后：**
+
+I think there are two main reasons. First, many children are taught from a young age that helping other people is a good thing. Doctors are a very clear example of this because they help sick people and sometimes even save lives, so children may feel that it is a meaningful job. Another reason is that doctors are highly respected in society. They usually have a good social status, so some children may see becoming a doctor as a sign of success.
 
 ---
 
@@ -24,7 +28,7 @@ I think there are two main reasons. First, some children want to help other peop
 - more convenient
 - does not interrupt others
 
-**参考回答：**
+**回答：**
 
 I think messaging is more convenient. People can reply when they are free, and a message usually does not interrupt them as much as a phone call.
 
@@ -36,7 +40,7 @@ I think messaging is more convenient. People can reply when they are free, and a
 - celebrate important moments
 - spend time with family or friends
 
-**参考回答：**
+**回答：**
 
 On special days, people usually want to celebrate. A nice meal can make the day feel more special, and it is also a good chance to spend time with family or friends.
 
@@ -48,7 +52,7 @@ On special days, people usually want to celebrate. A nice meal can make the day 
 - exciting atmosphere
 - support favourite team/player
 
-**参考回答：**
+**回答：**
 
 Some people really enjoy the atmosphere of live sports events. They may also want to support their favourite team or player in person, so they think the trip is worth the money.
 
@@ -60,7 +64,7 @@ Some people really enjoy the atmosphere of live sports events. They may also wan
 - different experiences
 - technology changes quickly
 
-**参考回答：**
+**回答：**
 
 Young and old people grow up in very different environments, so they often have different ideas and habits. Technology also changes very quickly, which can make the difference even bigger.
 
@@ -72,7 +76,7 @@ Young and old people grow up in very different environments, so they often have 
 - save time
 - reduce stress
 
-**参考回答：**
+**回答：**
 
 Being organized can save people a lot of time because they know what they need to do. It can also reduce stress, especially when they have many tasks.
 
@@ -84,7 +88,7 @@ Being organized can save people a lot of time because they know what they need t
 - vocabulary and grammar
 - lack of practice
 
-**参考回答：**
+**回答：**
 
 One common difficulty is remembering vocabulary and grammar. Another problem is that some learners do not have enough chances to practise speaking in real life.
 
@@ -96,7 +100,7 @@ One common difficulty is remembering vocabulary and grammar. Another problem is 
 - interesting or funny
 - easy to share
 
-**参考回答：**
+**回答：**
 
 A video can go viral if it is very interesting, funny, or surprising. If people enjoy it, they are more likely to share it with their friends.
 
@@ -108,7 +112,7 @@ A video can go viral if it is very interesting, funny, or surprising. If people 
 - practical skills
 - language skills
 
-**参考回答：**
+**回答：**
 
 People can learn many practical skills from videos, such as cooking or using software. They can also improve their language skills by watching videos in another language.
 
@@ -120,7 +124,7 @@ People can learn many practical skills from videos, such as cooking or using sof
 - entertainment
 - useful information
 
-**参考回答：**
+**回答：**
 
 Many people like watching entertaining videos, such as comedy or short dramas. Educational videos are also popular because people can learn useful information quickly.
 
@@ -132,7 +136,7 @@ Many people like watching entertaining videos, such as comedy or short dramas. E
 - respect teachers and classmates
 - be on time / finish work
 
-**参考回答：**
+**回答：**
 
 Students should respect their teachers and classmates. They should also be on time and complete their schoolwork, because these rules help create a good learning environment.
 
@@ -144,7 +148,7 @@ Students should respect their teachers and classmates. They should also be on ti
 - interesting content
 - good presenters or characters
 
-**参考回答：**
+**回答：**
 
 I think the most important thing is interesting content. Good presenters or attractive characters can also make people want to keep watching.
 
@@ -156,7 +160,7 @@ I think the most important thing is interesting content. Good presenters or attr
 - relaxing
 - fresh food / pleasant environment
 
-**参考回答：**
+**回答：**
 
 Growing plants at home can be very relaxing. If people grow vegetables, they can also get fresh food, while flowers can make their home look nicer.
 
@@ -168,7 +172,7 @@ Growing plants at home can be very relaxing. If people grow vegetables, they can
 - communication
 - learn to cooperate
 
-**参考回答：**
+**回答：**
 
 Teamwork helps students improve their communication skills. It also teaches them how to cooperate with other people and share responsibilities.
 
@@ -180,7 +184,7 @@ Teamwork helps students improve their communication skills. It also teaches them
 - advantage: communication / opportunities
 - disadvantage: time and effort
 
-**参考回答：**
+**回答：**
 
 Learning another language helps people communicate with more people and may create more study or job opportunities. However, it takes a lot of time and regular practice.
 
@@ -192,7 +196,7 @@ Learning another language helps people communicate with more people and may crea
 - keep society safe
 - avoid problems
 
-**参考回答：**
+**回答：**
 
 Rules help keep society safe and organized. If people follow them, there are usually fewer conflicts and fewer unnecessary problems.
 
@@ -204,7 +208,7 @@ Rules help keep society safe and organized. If people follow them, there are usu
 - convenient
 - cheaper
 
-**参考回答：**
+**回答：**
 
 Watching sports online is very convenient because people can watch from home. It is also usually much cheaper than travelling to a stadium or another country.
 
@@ -216,7 +220,7 @@ Watching sports online is very convenient because people can watch from home. It
 - advantage: save time / make work easier
 - disadvantage: overdependence / jobs
 
-**参考回答：**
+**回答：**
 
 AI can save time and make many tasks easier. However, people may become too dependent on it, and some jobs may also be affected in the future.
 
